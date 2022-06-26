@@ -3,7 +3,7 @@ import "./styles.css";
 function App() {
   return (
     <div className="App">
-      <header className="App-header">Will's Toy Box</header>
+      <header className="App-header">Will's Toy Room</header>
       <div className="intro">
         He'll give you the heebie-jeebies at a great price! I call that, service
         with a smile! uwu
